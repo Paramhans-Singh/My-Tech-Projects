@@ -2,6 +2,8 @@
 
 🚀 Explore my tech project list, a dynamic compilation showcasing my journey and skills in the realm of web development. Constructed using the powerful React JS, a JavaScript library known for its prowess in user interface creation, this project guarantees a seamless and responsive experience. The sleek design is meticulously curated through the incorporation of various CSS libraries, ensuring an aesthetically pleasing presentation across all projects. Dive into the collective innovation and craftsmanship encapsulated in this comprehensive list of tech projects. Your exploration of this digital showcase starts here! 💻✨
 
+If you find the project interesting, consider giving the repository a star⭐. Check out the YouTube demo [here](link).
+
 ## Features
 
 - **Interactive Design:** The portfolio boasts an interactive and user-friendly design to enhance the visitor's experience.
