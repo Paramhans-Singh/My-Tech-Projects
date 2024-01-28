@@ -7,8 +7,6 @@
 - **Interactive Design:** The portfolio boasts an interactive and user-friendly design to enhance the visitor's experience.
 - **Project Showcase:** Explore a curated collection of my projects, each highlighting different aspects of my skills and creativity.
 - **Skillset Overview:** Get insights into my skillset, including proficiency in various programming languages, frameworks, and tools.
-- **Contact Section:** Connect with me effortlessly through the integrated contact section, allowing for seamless communication.
-- 📖 **Multi-Page Layout:** Navigate seamlessly through multiple pages for a comprehensive user experience.
 - 🎨 **Styled with React-Bootstrap and CSS:** Elevate the aesthetics with React-Bootstrap and custom CSS, ensuring an easy-to-customize design with vibrant colors.
 - 📱 **Fully Responsive:** Experience a versatile design that adapts effortlessly to various devices, providing a seamless and immersive user journey.
 
