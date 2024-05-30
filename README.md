@@ -3,7 +3,7 @@
 Welcome to my tech project showcase! This website is built using React.js to showcase all my projects and hard work in the field of technology. Whether it's web development, machine learning, or mobile apps, you'll find everything here.
 
 ## My Tech Projects Live Preview
-
+https://github.com/Paramhans-Singh/My-Tech-Projects/assets/101575816/d468d094-2671-4b79-a416-4d7c61fbf267
 
 ## Features
 
