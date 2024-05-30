@@ -39,6 +39,16 @@ let projects = [
   },
 
   {
+    name: "Cybersecurity || DRDO Project",
+    imgsrc: "./images/cuckoo.png",
+    github: "https://github.com/Paramhans-Singh/DRDO-Project-Cuckoo",
+    website: "https://github.com/Paramhans-Singh/DRDO-Project-Cuckoo",
+    tags: "Cyber Security",
+    month: "April",
+    year: "2023",
+  },
+
+  {
     name: "DSA || Problem Solving",
     imgsrc: "./images/dsa.png",
     github: "https://github.com/Paramhans-Singh/DSA-Leetcode",
@@ -117,16 +127,7 @@ let projects = [
     year: "2023",
   },
 
-  {
-    name: "Cuckoo || DRDO Project",
-    imgsrc: "./images/cuckoo.png",
-    github: "https://github.com/Paramhans-Singh/DRDO-Project-Cuckoo",
-    website: "https://github.com/Paramhans-Singh/DRDO-Project-Cuckoo",
-    tags: "Cyber Security",
-    month: "April",
-    year: "2023",
-  },
-
+ 
   {
     name: "React Projects",
     imgsrc: "./images/react.png",
