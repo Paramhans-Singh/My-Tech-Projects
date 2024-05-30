@@ -1,7 +1,7 @@
 let projects = [
   {
     name: "INDchat",
-    imgsrc: "",
+    imgsrc: "./images/ind.png",
     github: "https://github.com/Paramhans-Singh/INDchat",
     website: "https://indchat.vercel.app/login",
     tags: "MERN",
@@ -10,7 +10,7 @@ let projects = [
   },
   {
     name: "GrubHub",
-    imgsrc: "",
+    imgsrc: "./images/grubhubs.png",
     github: "https://github.com/Paramhans-Singh/GrubHub",
     website: "https://github.com/Paramhans-Singh/GrubHub",
     tags: "MERN",
@@ -119,7 +119,7 @@ let projects = [
 
   {
     name: "Cuckoo || DRDO Project",
-    imgsrc: "",
+    imgsrc: "./images/cuckoo.png",
     github: "https://github.com/Paramhans-Singh/DRDO-Project-Cuckoo",
     website: "https://github.com/Paramhans-Singh/DRDO-Project-Cuckoo",
     tags: "Cyber Security",
@@ -176,7 +176,7 @@ let projects = [
 
   {
     name: "Gallery Ellite",
-    imgsrc: "",
+    imgsrc: "./images/galleryellite.png",
     github: "https://github.com/Paramhans-Singh/Gallery-Ellite",
     website: "",
     tags: "Firebase",
