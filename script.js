@@ -39,7 +39,7 @@ let projects = [
   },
 
   {
-    name: "Cybersecurity || DRDO Project",
+    name: "Cybersecurity || DRDO",
     imgsrc: "./images/cuckoo.png",
     github: "https://github.com/Paramhans-Singh/DRDO-Project-Cuckoo",
     website: "https://github.com/Paramhans-Singh/DRDO-Project-Cuckoo",
